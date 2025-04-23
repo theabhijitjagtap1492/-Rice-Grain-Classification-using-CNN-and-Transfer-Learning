@@ -1,0 +1,2 @@
+# -Rice-Grain-Classification-using-CNN-and-Transfer-Learning
+This project aims to build an image classification system that can accurately classify different types of rice grains using a Convolutional Neural Network (CNN). The model leverages transfer learning to adapt pre-trained networks for rice grain classification. The project also includes a user-friendly interface for real-time predictions.
