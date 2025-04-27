@@ -19,6 +19,21 @@ This project aims to build an image classification system that can accurately cl
 - [📂https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset](#) 
 
 ---
+##Library and Dependencies Required for this Project
+tensorflow>=2.8.0
+keras>=2.8.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.2
+matplotlib>=3.4.0
+seaborn>=0.11.2
+opencv-python>=4.5.5
+streamlit>=1.10.0
+Pillow>=9.0.0
+
+
+
+
 
 ## 🧠 Model Architecture
 
