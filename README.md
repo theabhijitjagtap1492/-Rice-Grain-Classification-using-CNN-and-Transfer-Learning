@@ -22,25 +22,25 @@ This project aims to build an image classification system that can accurately cl
 ##Library and Dependencies Required for this Project
 
 
-tensorflow>=2.8.0
+tensorflow
 
-keras>=2.8.0
+keras
 
-numpy>=1.21.0
+numpy
 
-pandas>=1.3.0
+pandas
 
-scikit-learn>=1.0.2
+scikit-learn
 
-matplotlib>=3.4.0
+matplotlib
 
-seaborn>=0.11.2
+seaborn
 
-opencv-python>=4.5.5
+opencv-python
 
-streamlit>=1.10.0
+streamlit
 
-Pillow>=9.0.0
+Pillow
 
 
 
